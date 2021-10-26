@@ -1,2 +1,2 @@
 # colab
-Google Colab notebooks
+Colab notebooks
